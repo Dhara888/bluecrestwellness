@@ -1,0 +1,134 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5415911100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 3,
+        "name": "search contact on home page",
+        "description": "",
+        "id": "contact;search-contact-on-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 742001000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 187397600,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I am on homepage",
+            "match": {
+              "location": "CheckoutStepdefs.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 335943700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I click on accept cookies",
+            "match": {
+              "location": "CheckoutStepdefs.iClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2167405900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I  mousehover on Health Checks",
+            "match": {
+              "location": "CheckoutStepdefs.mousehoverOnHealthChecks()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 23300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I click on Base Home Test Kit",
+            "match": {
+              "location": "CheckoutStepdefs.clickOnBaseHomeTestKit()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6941727200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on Book now",
+            "match": {
+              "location": "CheckoutStepdefs.iClickOnBookNow()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 600723700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click continue",
+            "match": {
+              "location": "CheckoutStepdefs.iClickContinue()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 38989300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "verify I am on \"Personal details\" checkout Page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Personal details",
+                  "offset": 16
+                }
+              ],
+              "location": "CheckoutStepdefs.verifyIAmOnCheckoutPage(String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Contact",
+    "description": "",
+    "id": "contact",
+    "keyword": "Feature",
+    "uri": "checkout.feature"
+  }
+]

@@ -1,0 +1,8 @@
+2023-03-19 21:30:28 INFO  Checkout :42 - I click on accept cookies[[ChromeDriver: chrome on WINDOWS (2b91d0c1027965bdbc5d0a078df9e7a7)] -> xpath: //div/button[@id='onetrust-accept-btn-handler']]
+2023-03-19 21:30:28 INFO  Checkout :47 - I mousehover to HealthChecks[[ChromeDriver: chrome on WINDOWS (2b91d0c1027965bdbc5d0a078df9e7a7)] -> xpath: //li[@id= 'menu-item-660']]
+2023-03-19 21:30:30 INFO  Checkout :52 - I click on Book now[[ChromeDriver: chrome on WINDOWS (2b91d0c1027965bdbc5d0a078df9e7a7)] -> xpath: (//a[@class = 'btn productEntityAddToCart'])[2]]
+2023-03-19 21:30:37 INFO  Checkout :59 - I click on continue[[ChromeDriver: chrome on WINDOWS (2b91d0c1027965bdbc5d0a078df9e7a7)] -> xpath: //a[@id = 'checkoutContinueButton']]
+2023-03-19 21:31:39 INFO  Checkout :42 - I click on accept cookies[[ChromeDriver: chrome on WINDOWS (821171d74fd0188d6f4b8f26cd664f9f)] -> xpath: //div/button[@id='onetrust-accept-btn-handler']]
+2023-03-19 21:31:39 INFO  Checkout :47 - I mousehover to HealthChecks[[ChromeDriver: chrome on WINDOWS (821171d74fd0188d6f4b8f26cd664f9f)] -> xpath: //li[@id= 'menu-item-660']]
+2023-03-19 21:31:41 INFO  Checkout :52 - I click on Book now[[ChromeDriver: chrome on WINDOWS (821171d74fd0188d6f4b8f26cd664f9f)] -> xpath: (//a[@class = 'btn productEntityAddToCart'])[2]]
+2023-03-19 21:31:48 INFO  Checkout :59 - I click on continue[[ChromeDriver: chrome on WINDOWS (821171d74fd0188d6f4b8f26cd664f9f)] -> xpath: //a[@id = 'checkoutContinueButton']]
